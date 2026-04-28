@@ -1,7 +1,7 @@
 <!-- Заголовок с анимацией (опционально) -->
 <!-- Замените URL на свою гифку: можно загрузить в репо /assets или использовать externals -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8b/4e/92/8b4e9278b087d5d1caa271a0a4215221.gif" alt="Creative Dev Animation" width="100%" style="border-radius: 12px; margin: 10px 0;">
+  <img src="https://i.pinimg.com/originals/4c/3e/42/4c3e4262fffe97f8fecdfbcdf2407945.gif" alt="Creative Dev Animation" width="100%" style="border-radius: 12px; margin: 10px 0;">
   
   # 👾 Ali Mamedov
   ### 🎮 Game Developer | 🎨 Multimedia Creator | ⚡ Unity & React
