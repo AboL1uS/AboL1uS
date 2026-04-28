@@ -52,7 +52,9 @@
 [🔗 Посмотреть на GitHub](https://github.com/AboL1uS/morb-game)
 
 Roguelike с процедурной генерацией подземелий. Unity (C#), NavMesh, система прогрессии заклинаний.
+
 ---
+
 
 ### 🗺️ Deskry — AI Career Navigator
 *Персональный роадмап развития с помощью ИИ*
