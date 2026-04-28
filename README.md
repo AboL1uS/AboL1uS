@@ -52,9 +52,6 @@
 [🔗 Посмотреть на GitHub](https://github.com/AboL1uS/morb-game)
 
 Roguelike с процедурной генерацией подземелий. Unity (C#), NavMesh, система прогрессии заклинаний.
-
-![Morb Preview](https://via.placeholder.com/600x200/1a1a2e/eee?text=Morb+Gameplay)
-
 ---
 
 ### 🗺️ Deskry — AI Career Navigator
@@ -65,7 +62,7 @@ Roguelike с процедурной генерацией подземелий. U
 Платформа для анализа навыков и построения роадмапов обучения. React 19, TypeScript, Gemini API, Tailwind CSS 4.
 
 <div align="center">
-  <img src="deslog.png" alt="Morb" style="border-radius: 8px;  max-width="50%";">
+  <img src="deslog.png" alt="Deskry" style="border-radius: 8px;  max-width="50%";">
 </div>
 
 ---
