@@ -65,7 +65,7 @@ Roguelike с процедурной генерацией подземелий. U
 Платформа для анализа навыков и построения роадмапов обучения. React 19, TypeScript, Gemini API, Tailwind CSS 4.
 
 <div align="center">
-  <img src="deslog.png" alt="Morb" style="border-radius: 8px;  width="200";">
+  <img src="deslog.png" alt="Morb" style="border-radius: 8px;  max-width="50%";">
 </div>
 
 ---
