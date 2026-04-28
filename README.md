@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/55/ca/a4/55caa40435e94203225e1e6aa54a204f.gif" alt="Animation" width="100%" style="border-radius: 12px; margin: 10px 0;">
   
   # 👾 Ali Mamedov
-  ### 🎮 Game Developer | 🎨 Multimedia 
+  ### 🎮 Game Developer |  🎨 Fullstack Developer
   
-  > *«Превращаю идеи в интерактивные миры»*
+  *«Превращаю идеи в интерактивные миры»* 
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/galla_li)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AboL1uS)
@@ -14,42 +14,7 @@
 
 ## 🧭 Обо мне
 
-👋 Привет! Я **Ali Mamedov** из Москвы 🇷🇺
-
-🎮 Делаю игры на **Unity (C#)** и веб-приложения на **React + TypeScript**
-
-🔹 Люблю: процедурную генерацию, визуальные эффекты, интерактивный сторителлинг  
-🔹 Верю: хороший геймплей = простая механика × глубокая система  
-🔹 Открыт к коллаборациям — пиши в [Telegram](https://t.me/galla_li)!
-
----
-
-## 🎮 Проекты
-
-### 🔮 Morb — Mystic Orb: Dungeon Depths
-*Roguelike-подземелье, где ты — магический орб*
-
-[🔗 Посмотреть на GitHub](https://github.com/AboL1uS/morb-game)
-
-- 🎯 Жанр: Top-down Roguelike | Fantasy
-- ⚙️ Движок: Unity (C#)
-- ✨ Фишки: процедурная генерация, навигация врагов (NavMesh), система заклинаний, боссы
-- 🎓 Отлично подходит для изучения архитектуры игр в Unity
-
-![Morb Preview](https://via.placeholder.com/600x200/1a1a2e/eee?text=Morb+Gameplay)
-
----
-
-### 🗺️ Deskry — AI Career Navigator
-*Персональный роадмап развития с помощью ИИ*
-
-[🔗 Посмотреть на GitHub](https://github.com/AboL1uS/deskry)
-
-- 🧠 AI: Google Gemini API
-- ⚛️ Стек: React 19 + TypeScript + Vite + Tailwind CSS 4
-- ✨ Фишки: анализ резюме, динамический план обучения, индекс мастерства, тёмный интерфейс
-
-![Deskry Preview](https://via.placeholder.com/600x200/0f0f1a/eee?text=Deskry+UI)
+Разрабатываю игры на Unity и создаю веб-платформы.
 
 ---
 
@@ -78,12 +43,30 @@
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AboL1uS/AboL1uS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AboL1uS/AboL1uS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AboL1uS/AboL1uS/output/pacman-contribution-graph.svg">
-</picture>
 
+## 🎮 Проекты
+
+### 🔮 Morb — Mystic Orb: Dungeon Depths
+*Roguelike-подземелье, где ты — магический орб*
+
+[🔗 Посмотреть на GitHub](https://github.com/AboL1uS/morb-game)
+
+Roguelike с процедурной генерацией подземелий. Unity (C#), NavMesh, система прогрессии заклинаний.
+
+![Morb Preview](https://via.placeholder.com/600x200/1a1a2e/eee?text=Morb+Gameplay)
+
+---
+
+### 🗺️ Deskry — AI Career Navigator
+*Персональный роадмап развития с помощью ИИ*
+
+[🔗 Посмотреть на GitHub](https://github.com/AboL1uS/deskry)
+
+Платформа для анализа навыков и построения роадмапов обучения. React 19, TypeScript, Gemini API, Tailwind CSS 4.
+
+![Deskry Preview](https://via.placeholder.com/600x200/0f0f1a/eee?text=Deskry+UI)
+
+---
 
 <div align="center" style="margin-top: 20px; opacity: 0.7;">
   <sub>✨ Last updated: 2026</sub>
