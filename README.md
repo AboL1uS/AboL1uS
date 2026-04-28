@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e6/67/64/e66764a7ae6b33bd2bab3ef8a19ca3b5.gif" alt="Animation" width="100%" style="border-radius: 12px; margin: 10px 0;">
+  <img src="https://i.pinimg.com/originals/55/ca/a4/55caa40435e94203225e1e6aa54a204f.gif" alt="Animation" width="100%" style="border-radius: 12px; margin: 10px 0;">
   
   # 👾 Ali Mamedov
   ### 🎮 Game Developer |  🎨 Fullstack Developer
