@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/55/ca/a4/55caa40435e94203225e1e6aa54a204f.gif" alt="Animation" width="100%" style="border-radius: 12px; margin: 10px 0;">
   
   # Ali Mamedov
-  ### 🎮 Game Developer |  🎨 Fullstack Developer
+  ###  Game Developer |   Fullstack Developer
   
   *«Превращаю идеи в интерактивные миры»* 
   
