@@ -57,7 +57,7 @@ Roguelike с процедурной генерацией подземелий. U
 
 
 ### 🗺️ Deskry — AI Career Navigator
-*Персональнjt развития с помощью ИИ*
+*Персональный развития с помощью ИИ*
 
 [🔗 Посмотреть на GitHub](https://github.com/AboL1uS/deskry)
 
